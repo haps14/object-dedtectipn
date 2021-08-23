@@ -1,0 +1,21 @@
+.main-div
+{
+    text-align: center;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+h1
+{
+    text-align: center;
+}
+
+button{
+    width: 200px;
+    height: 150px;
+    padding: 20;
+}
